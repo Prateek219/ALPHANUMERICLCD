@@ -28,4 +28,6 @@ performed
 ![Screenshot (48)](https://user-images.githubusercontent.com/64007722/79753153-19f0be80-8333-11ea-9b3a-76152e6289c1.png)
 
 ## SCAN CODE 
+![Screenshot (49)](https://user-images.githubusercontent.com/64007722/79753287-486e9980-8333-11ea-96e2-b0554f8e18db.png)
+#### Note: Software initialisation is always preferred.
 
