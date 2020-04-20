@@ -25,3 +25,7 @@ performed
 ![Screenshot (47)](https://user-images.githubusercontent.com/64007722/79753065-f0379780-8332-11ea-9288-62bda9543200.png)
 
 ### INSTRUCTION SET
+![Screenshot (48)](https://user-images.githubusercontent.com/64007722/79753153-19f0be80-8333-11ea-9b3a-76152e6289c1.png)
+
+## SCAN CODE 
+
