@@ -14,4 +14,7 @@ off then on.
  the display can be initialized through software.
 Note: Variable power supply may affect timing hence initialization of lcd in that case software initialization is
  preferred.
+ ### 2. Software Initialization
+Although software initialization is not mandatory, it is recommended that this procedure always be
+performed
 
