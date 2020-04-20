@@ -14,18 +14,25 @@ off then on.
  the display can be initialized through software.
 Note: Variable power supply may affect timing hence initialization of lcd in that case software initialization is
  preferred.
+ ___
  ### 2. Software Initialization
 Although software initialization is not mandatory, it is recommended that this procedure always be
 performed
+___
+
+  ##### BIT INITIALIZATION
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/64007722/79752754-6c7dab00-8332-11ea-8c36-4fe9da7d4f56.png)
 
-#### BIT INITIALIZATION
+
+  ##### BIT INITIALIZATION
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/64007722/79753065-f0379780-8332-11ea-9288-62bda9543200.png)
+___
 
 ### INSTRUCTION SET
 ![Screenshot (48)](https://user-images.githubusercontent.com/64007722/79753153-19f0be80-8333-11ea-9b3a-76152e6289c1.png)
+___
 
 ## SCAN CODE 
 ![Screenshot (49)](https://user-images.githubusercontent.com/64007722/79753287-486e9980-8333-11ea-96e2-b0554f8e18db.png)
