@@ -22,4 +22,6 @@ performed
 
 #### BIT INITIALIZATION
 
+![Screenshot (47)](https://user-images.githubusercontent.com/64007722/79753065-f0379780-8332-11ea-9288-62bda9543200.png)
 
+### INSTRUCTION SET
