@@ -18,3 +18,8 @@ Note: Variable power supply may affect timing hence initialization of lcd in tha
 Although software initialization is not mandatory, it is recommended that this procedure always be
 performed
 
+![Screenshot (46)](https://user-images.githubusercontent.com/64007722/79752754-6c7dab00-8332-11ea-8c36-4fe9da7d4f56.png)
+
+#### BIT INITIALIZATION
+
+
