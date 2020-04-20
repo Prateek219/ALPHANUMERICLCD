@@ -3,6 +3,7 @@
 ## Basic Pin & Description:
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/64007722/79751921-0b090c80-8331-11ea-962b-6391bb9b8514.png)
+___
 ## Initialization Protocol :
 ### 1. Initialization using the Internal Reset Circuit
 The display can be initialized using the internal reset circuit if the Internal Power Supply Reset timing
@@ -14,11 +15,11 @@ off then on.
  the display can be initialized through software.
 Note: Variable power supply may affect timing hence initialization of lcd in that case software initialization is
  preferred.
- ___
+ 
  ### 2. Software Initialization
 Although software initialization is not mandatory, it is recommended that this procedure always be
 performed
-___
+
 
   ##### BIT INITIALIZATION
 
